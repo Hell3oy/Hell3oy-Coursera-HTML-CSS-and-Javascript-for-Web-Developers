@@ -11,3 +11,7 @@ This repository contains my solutions of the assignments
 #### Module_3
 
 * [Solution](https://hell3oy.github.io/Hell3oy-Coursera-HTML-CSS-and-Javascript-for-Web-Developers/Assignment/Module_3/)
+
+#### Module_4
+
+* [Solution](https://hell3oy.github.io/Hell3oy-Coursera-HTML-CSS-and-Javascript-for-Web-Developers/Assignment/Module_4/)
